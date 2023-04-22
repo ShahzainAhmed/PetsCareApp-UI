@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Get.to(() => const ProfileScreen());
               },
               child: const Icon(
-                Icons.search,
+                Icons.person,
                 color: AppColors.kBlackColor,
               ),
             ),
